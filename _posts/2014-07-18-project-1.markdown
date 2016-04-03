@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: Optimization
 date: 2016-04-02
 img: GradientDescent.png
 alt: image-alt
