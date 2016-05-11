@@ -4,7 +4,7 @@ email: lucasramadan@gmail.com
 url: http://lucasramadan.github.io
 description: "My personal website, including some projects I completed during my Master's Degree at galvanizeU"
 # description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Chemist - Data Scientist"
+skills: "Chemist + Data Scientist"
 meta_author: Ramadan Lucas
 
 # Google webmaster tools
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: San Francisco, CA 90210
+  - line: San Francisco, CA 94904
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
