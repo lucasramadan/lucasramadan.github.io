@@ -4,8 +4,9 @@ email: lucasramadan@gmail.com
 url: http://lucasramadan.github.io
 description: "My personal website, including some projects I completed during my Master's Degree at galvanizeU"
 # description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Data Scientist"
-meta_author: Ramadan Lucas
+skills: "Chemist - Data Scientist"
+# meta_author: Ramadan Lucas
+meta_author: Scientist Data
 
 # Google webmaster tools
 google_verify:
