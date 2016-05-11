@@ -4,9 +4,8 @@ email: lucasramadan@gmail.com
 url: http://lucasramadan.github.io
 description: "My personal website, including some projects I completed during my Master's Degree at galvanizeU"
 # description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Chemist - Data Science"
-# meta_author: Ramadan Lucas
-meta_author: Scientist Data
+skills: "Chemist - Data Scientist"
+meta_author: Ramadan Lucas
 
 # Google webmaster tools
 google_verify:
@@ -26,14 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  # primary: 18bc9c #80B3FF
-  primary: 1A62A3
-  primary-rgb: "26, 98, 163"
-  # primary-rgb: "24,288,156" #"128,179,255"
-  # secondary: 2c3e50 #FD6E8A
-  secondary: B4A28F #FD6E8A
-  secondary-dark: 7C7062 #A2122F
-  # secondary-dark: 233140 #A2122F
+  primary: 7C7062 #1A62A3
+  primary-rgb: "124, 112, 98" #"26, 98, 163"
+  secondary: 1A62A3 #B4A28F
+  secondary-dark: 005099 #7C7062
 
 # Footer settings
 footer:
