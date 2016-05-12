@@ -55,7 +55,7 @@ address:
   - line: San Francisco, CA 94904
 
 # Credits content
-credits: 'Website adapted from <a href="https://jeromelachaud.github.io/freelancer-theme/">theme</a>.'
+credits: 'Website adapted from <a href="https://jeromelachaud.github.io/freelancer-theme/">theme</a>'
 
 # Build settings
 markdown: kramdown
