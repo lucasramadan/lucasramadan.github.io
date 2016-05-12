@@ -41,10 +41,10 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/LucasERamadan
-  - title: facebook
-    url: https://www.facebook.com/lramadan
   - title: instagram
     url: https://www.instagram.com/lucasramadan/
+  - title: facebook
+    url: https://www.facebook.com/lramadan
   - title: linkedin
     url: https://www.linkedin.com/in/lucasramadan
   - title: github
@@ -55,7 +55,7 @@ address:
   - line: San Francisco, CA 94904
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
