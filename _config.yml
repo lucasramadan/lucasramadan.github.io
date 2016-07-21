@@ -4,7 +4,7 @@ email: lucasramadan@gmail.com
 url: http://lucasramadan.github.io
 description: "My personal website, including some projects I completed during my Master's Degree at galvanizeU"
 # description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Chemist + Data Scientist"
+skills: "Data Scientist"
 meta_author: Ramadan Lucas
 
 # Google webmaster tools
@@ -52,10 +52,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: San Francisco, CA 94904
+  - line: San Francisco, CA
 
 # Credits content
-credits: 'Website adapted from <a href="https://jeromelachaud.github.io/freelancer-theme/">theme</a>'
+credits: 'Website adapted from <a href="https://jeromelachaud.github.io/freelancer-theme/">Theme</a>'
 
 # Build settings
 markdown: kramdown
