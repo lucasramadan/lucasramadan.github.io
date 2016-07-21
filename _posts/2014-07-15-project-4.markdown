@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2016
 client: galvanizeU
 category: Capstone 
-description: For my Capstone project, I will be using advanced machine learning techniques, including various Neural Networks and Probablistic Graphical Models to predict protein fold states. You can find my work on GitHub <a href='https://github.com/lucasramadan/Protein_Prediction'>here</a>
+description: During my final semester of classes at GalvanizeU, I explored advanced Machine Learning techniques, like Neural Networks and Probablistic Graphical Models to predict protein fold states. You can find my work on GitHub <a href='https://github.com/lucasramadan/Protein_Prediction'>here</a>
 
 ---

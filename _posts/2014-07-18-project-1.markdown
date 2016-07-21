@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2016
 client: galvanizeU
 category: Blog
-description: Here I will discuss the code I have written for my final quarter at GalvanizeU, in our Advanced Machine Learning course. 
+description: During my final quarter of classes at GalvanizeU, I wrote a blog post about Optimization techniques, from what I learned in our Advanced Machine Learning course. The blog post can be seen <a href="https://www.linkedin.com/pulse/studying-galvanizeu-lucas-ramadan?trk=prof-post">here</a>
 
 ---
