@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2014-07-14
 img: usda.png
 alt: image-alt
@@ -8,5 +8,4 @@ project-date: June 2014
 client: USDA ARS WRRC
 category: Polymer Synthesis
 description: While working for the United States Department of Agriculture, I designed and synthesized novel biodegradable plasticizers, to increase the thermomechanical properties of a common biodegradable plastic, PLA. The work was recently published in the Journal of Applied Polymer Science, which can be seen <a href="http://onlinelibrary.wiley.com/doi/10.1002/app.42858/full">here</a>.
-
 ---

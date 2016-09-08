@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2014-07-15
 img: protein.png
 alt: image-alt
@@ -8,5 +8,4 @@ project-date: May 2016
 client: galvanizeU
 category: Capstone 
 description: During my final quarter of classes at GalvanizeU, I explored advanced Machine Learning techniques, like Neural Networks and Probablistic Graphical Models to predict protein fold states. You can find my work on GitHub <a href='https://github.com/lucasramadan/Protein_Prediction'>here</a>.
-
 ---

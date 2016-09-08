@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2014-07-16
 img: music.png
 alt: image-alt
@@ -8,5 +8,4 @@ project-date: December 2015
 client: galvanizeU
 category: Project
 description: In my second quarter at GalvanizeU, I used a multiple Machine Learning classifiers, such as Naive Bayes, Logistic Regression and Random Forest, to classify the genre of a song, based on its lyrics. Data was collected from the Genius API, and my code can be found on GitHub <a href="https://github.com/lucasramadan/Music_Classification">here</a>.
-
 ---
