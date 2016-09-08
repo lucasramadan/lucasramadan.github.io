@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May-August 2016
 client: galvanizeU
 category: Project
-description: During my fifth quarter at galvanizeU, I underwent my Capstone project. I applied modern Neural Network architectures to the unsolved problem of Protein Secondary Structure Prediction. My results, 90% accuracy, were highly competitive with state-of-the-art. During this project, I became very familiar with various Data Science skills, such as Command Line, Amazon Web Services (AWS), Theano and Keras (Deep Learning Frameworks) as well as working in the world of Big Data. 
+description: During my fifth quarter at galvanizeU, I underwent my Capstone project. I applied modern Neural Network architectures to the unsolved problem of Protein Secondary Structure Prediction. My results, 90% accuracy, were highly competitive with state-of-the-art. During this project, I became very familiar with various Data Science skills, such as Command Line, Amazon Web Services (AWS), Theano and Keras (Deep Learning Frameworks) as well as working in the world of Big Data. My work can be found on GitHub <a href="https://github.com/lucasramadan/Capstone">here</a>.
 
 ---
