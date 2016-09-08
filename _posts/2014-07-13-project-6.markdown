@@ -5,8 +5,8 @@ date: 2014-07-15
 img: play_bigger.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: 
+client: Play Bigger
+category: Data Science
+description: Concurrent with my pursuit of a Masters in Data Science, I held a part-time job with a boutique technology advisory firm, Play Bigger Advisors, where I honed practical skills working with large data sets, and my Python and Data Science skills. As part of this work, we analyzed hundreds of thousands of investment transactions in U.S. based Technology companies founded since 2000, performed unsupervised learning clustering methodologies and found the optimal time for companies to go public. The results of this research are now known as the 6-10 law in the recently published Harper Collins best seller Play Bigger: How Pirates Dreamers and Innovators Create and Dominate Markets. In addition, this research was the focus of an article published by the Harvard Business Review, called <a href="https://hbr.org/2016/01/how-unicorns-grow">How Unicorns Grow</a>.
 
 ---
