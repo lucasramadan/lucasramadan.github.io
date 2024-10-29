@@ -80,7 +80,8 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      // 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -115,14 +116,14 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of New Haven',
-      degree: 'Degree',
+      degree: 'M.S. Data Science',
       from: '2015',
-      to: '2019',
+      to: '2016',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
+      institution: 'Whitman College',
+      degree: 'B.A. Chemistry',
+      from: '2010',
       to: '2014',
     },
   ],
